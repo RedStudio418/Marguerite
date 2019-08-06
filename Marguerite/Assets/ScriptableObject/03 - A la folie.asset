@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecdad647d5e222746bda05c992469d4a, type: 3}
+  m_Name: 03 - A la folie
+  m_EditorClassIdentifier: 
+  _dialog:
+  - FR: "En fin d'ann\xE9e, durant la boom de l'\xE9cole, Mia proposa \xE0 L\xE9o
+      de danser ensemble. L\xE9o accepta avec un large sourire. Et pour la premi\xE8re
+      fois ils s'embrass\xE8rent ..."
+    EN: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecdad647d5e222746bda05c992469d4a, type: 3}
+  m_Name: 00 - Un peu
+  m_EditorClassIdentifier: 
+  _dialog:
+  - FR: "Mia sentait de nouveau le regard de L\xE9o se poser sur elle ...\n\xC0 cette
+      pens\xE9e, son coeur s'acc\xE9l\xE9ra et ses joues prirent une d\xE9licate teinte
+      ros\xE9e ..."
+    EN: 
